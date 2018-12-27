@@ -1,7 +1,5 @@
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Commit");
-        System.out.println("Br 1 commit");
-        System.out.println("Br 1 second commit");
+        System.out.println("First commit, changes in br2");
     }
 }
